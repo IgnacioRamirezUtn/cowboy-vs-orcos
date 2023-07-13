@@ -1,0 +1,33 @@
+
+    {"plataformas_data": {
+      "plataformas_1": [
+        {"x": 300, "y": 450, "width": 30, "height": 20, "image_path": "imagenes/tileset/forest/Objects/Crate.png"},
+        {"x": 400, "y": 320, "width": 30, "height": 20, "image_path": "imagenes/tileset/forest/Objects/Crate.png"},
+        {"x": 600, "y": 200, "width": 30, "height": 20, "image_path": "imagenes/tileset/forest/Objects/Crate.png"},
+        {"x": 850, "y": 200, "width": 30, "height": 20, "image_path": "imagenes/tileset/forest/Objects/Crate.png"},
+        {"x": 1000, "y": 300, "width": 30, "height": 20, "image_path": "imagenes/tileset/forest/Objects/Crate.png"},
+        {"x": 1100, "y": 200, "width": 30, "height": 20, "image_path": "imagenes/tileset/forest/Objects/Crate.png"},
+        {"x": 1200, "y": 350, "width": 30, "height": 20, "image_path": "imagenes/tileset/forest/Objects/Crate.png"}
+      ],
+      "plataformas_2": [
+        {"x": 300, "y": 450, "width": 10, "height": 20, "image_path": "imagenes/tileset/forest/Objects/Crate.png"},
+        {"x": 400, "y": 300, "width": 10, "height": 20, "image_path": "imagenes/tileset/forest/Objects/Crate.png"},
+        {"x": 600, "y": 200, "width": 10, "height": 20, "image_path": "imagenes/tileset/forest/Objects/Crate.png"},
+        {"x": 900, "y": 350, "width": 10, "height": 20, "image_path": "imagenes/tileset/forest/Tiles/2.png"},
+        {"x": 1000, "y": 350, "width": 10, "height": 20, "image_path": "imagenes/tileset/forest/Tiles/2.png"},
+        {"x": 1100, "y": 350, "width": 10, "height": 20, "image_path": "imagenes/tileset/forest/Tiles/2.png"},
+        {"x": 1200, "y": 350, "width": 10, "height": 20, "image_path": "imagenes/tileset/forest/Tiles/2.png"}
+      ],
+      "plataformas_3": [
+        {"x": 450, "y": 450, "width": 10, "height": 20, "image_path": "imagenes/tileset/forest/Objects/Crate.png"},
+        {"x": 400, "y": 320, "width": 10, "height": 20, "image_path": "imagenes/tileset/forest/Objects/Crate.png"},
+        {"x": 750, "y": 450, "width": 10, "height": 20, "image_path": "imagenes/tileset/forest/Objects/Crate.png"},
+        {"x": 900, "y": 350, "width": 10, "height": 20, "image_path": "imagenes/tileset/forest/Tiles/2.png"},
+        {"x": 1000, "y": 350, "width": 10, "height": 20, "image_path": "imagenes/tileset/forest/Tiles/2.png"},
+        {"x": 1100, "y": 350, "width": 10, "height": 20, "image_path": "imagenes/tileset/forest/Tiles/2.png"},
+        {"x": 1200, "y": 350, "width": 10, "height": 20, "image_path": "imagenes/tileset/forest/Tiles/2.png"},
+        {"x": 180, "y": 220, "width": 10, "height": 20, "image_path": "imagenes/tileset/forest/Tiles/2.png"},
+        {"x": 100, "y": 220, "width": 10, "height": 20, "image_path": "imagenes/tileset/forest/Tiles/2.png"},
+        {"x": 50, "y": 220, "width": 10, "height": 20, "image_path": "imagenes/tileset/forest/Tiles/2.png"},
+        {"x": 0, "y": 220, "width": 10, "height": 20, "image_path": "imagenes/tileset/forest/Tiles/2.png"}
+      ]}}
